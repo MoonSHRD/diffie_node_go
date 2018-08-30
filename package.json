@@ -1,0 +1,15 @@
+{
+  "name": "diffie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^3.0.27",
+    "js-x25519": "git+https://github.com/CryptoEsel/js-x25519.git"
+  }
+}
